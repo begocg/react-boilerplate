@@ -1,0 +1,55 @@
+{
+  "name": "react-boilerplate",
+
+  "version": "1.0.0",
+
+  "description": "React and Node boilerplate template developer ready 🚀 to get started quickly with all basic tools included and configured.",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/begocg/react-boilerplate"
+  },
+  "keywords": [
+
+    "reactjs",
+    
+    "javascript",
+
+    "node",
+
+    "boilerplate",
+
+    "jest",
+
+    "nodejs",
+
+    "eslint",
+
+    "template",
+
+    "starter-template",
+
+    "nodejs-cli",
+
+    "react-boilerplate",
+
+    "node-reactjs-boilerplate",
+
+    "node-boilerplate",
+
+    "backend"
+
+  ],
+
+  "author": "Begoña C. González",
+
+  "license": "MIT"
+}
