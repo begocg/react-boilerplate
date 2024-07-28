@@ -38,11 +38,12 @@ npm test
 ```
 
 ## Features
-React: A JavaScript library for building user interfaces.
-Bootstrap: A popular CSS framework for responsive design.
-ESLint: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
-Jest: A delightful JavaScript Testing Framework with a focus on simplicity.
-react-docgen: A CLI and toolbox to extract information from React component files for documentation generation.
+- **React**: A JavaScript library for building user interfaces.
+- **Bootstrap**: A popular CSS framework for responsive design.
+- **ESLint**: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- **Jest**: A delightful JavaScript Testing Framework with a focus on simplicity.
+- **react-docgen**: A CLI and toolbox to extract information from React component files for documentation generation.
+
 
 ## Customization
 
