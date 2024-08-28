@@ -16,7 +16,7 @@ This is a simple boilerplate project using React, Bootstrap, ESLint, Jest, and r
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-boilerplate.git
+git clone https://github.com/begocg/react-boilerplate.git
 cd react-boilerplate
 npm install
 ```
